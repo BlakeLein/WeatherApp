@@ -12,7 +12,7 @@ Weather App is a simple resource for current weather conditions. Weather App uti
 
 Published June 2022
 
-[Email Me](blake.lein@gmail.com) / [GitHub](https://github.com/BlakeLein?tab=repositories)
+[Email Me](blake.lein@gmail.com) / [GitHub](https://github.com/BlakeLein/WeatherApp)
 
 ## Running Weather App
 
@@ -29,7 +29,7 @@ Published June 2022
 
 ### **Running the Program**
 
-Simply Download the [Weather App Repo](), insert your key, and launch!
+Simply Download the [Weather App Repo](https://github.com/BlakeLein/WeatherApp), insert your key, and launch!
 
 ## How Weather App Works
 
